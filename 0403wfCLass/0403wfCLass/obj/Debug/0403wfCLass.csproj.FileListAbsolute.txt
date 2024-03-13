@@ -1,0 +1,10 @@
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\bin\Debug\0403wfCLass.exe.config
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\bin\Debug\0403wfCLass.exe
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\bin\Debug\0403wfCLass.pdb
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\obj\Debug\0403wfCLass.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\obj\Debug\_0403wfCLass.Form1.resources
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\obj\Debug\_0403wfCLass.Properties.Resources.resources
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\obj\Debug\0403wfCLass.csproj.GenerateResource.cache
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\obj\Debug\0403wfCLass.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\obj\Debug\0403wfCLass.exe
+C:\Users\Support\source\repos\0403wfCLass\0403wfCLass\obj\Debug\0403wfCLass.pdb
