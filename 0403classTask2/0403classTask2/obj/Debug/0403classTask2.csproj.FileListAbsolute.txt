@@ -1,0 +1,10 @@
+D:\Study\Нова папка\0403classTask2\0403classTask2\bin\Debug\0403classTask2.exe.config
+D:\Study\Нова папка\0403classTask2\0403classTask2\bin\Debug\0403classTask2.exe
+D:\Study\Нова папка\0403classTask2\0403classTask2\bin\Debug\0403classTask2.pdb
+D:\Study\Нова папка\0403classTask2\0403classTask2\obj\Debug\0403classTask2.csproj.AssemblyReference.cache
+D:\Study\Нова папка\0403classTask2\0403classTask2\obj\Debug\_0403classTask2.Form1.resources
+D:\Study\Нова папка\0403classTask2\0403classTask2\obj\Debug\_0403classTask2.Properties.Resources.resources
+D:\Study\Нова папка\0403classTask2\0403classTask2\obj\Debug\0403classTask2.csproj.GenerateResource.cache
+D:\Study\Нова папка\0403classTask2\0403classTask2\obj\Debug\0403classTask2.csproj.CoreCompileInputs.cache
+D:\Study\Нова папка\0403classTask2\0403classTask2\obj\Debug\0403classTask2.exe
+D:\Study\Нова папка\0403classTask2\0403classTask2\obj\Debug\0403classTask2.pdb
